@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265491339134",
+    "firebase_url": "https://sistema-tienda-76135.firebaseio.com",
+    "project_id": "sistema-tienda-76135",
+    "storage_bucket": "sistema-tienda-76135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265491339134:android:0b83aa89a63fcae9",
+        "android_client_info": {
+          "package_name": "erika.roxana.com.sistemaventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265491339134-ee9ha142b4j0le8kklmg2uc35la3jn3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpiqV70hu6GQm3pUFsJGm-BG3NjOQBHgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265491339134-ee9ha142b4j0le8kklmg2uc35la3jn3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
